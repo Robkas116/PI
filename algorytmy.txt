@@ -1,0 +1,8 @@
+algorytm szeregowy
+moment zakonczenia poprzedniej instrukcji poprzedza lub jest w tym samym momencie co rozpoczęcie kolejnej instrukcji
+
+algorytmy równoległe 
+co najmniej 2 instrukcje mogą być wykonywane równolegle
+koniec pierwszej instrukcji jest później niż początek kolejnej
+
+Im większa ef. czasowa, tym mniejsza ef. pamięciowa
